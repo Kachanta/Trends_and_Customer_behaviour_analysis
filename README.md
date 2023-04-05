@@ -18,11 +18,12 @@ some text here
 
 - We will also create a PowerPoint presentation to includes a detailed approach for our strategy behind each of the phases including activities involved in each.
 
-## Approach and techniques
-some text here
-
 ## Learning from this project 
-some text here
+- Data Wrangling
+- Data Mining 
+- Metrics Creation 
+- Data Analysis 
+- Visulization
 
 ## Tools/Technology
 - Pandas
