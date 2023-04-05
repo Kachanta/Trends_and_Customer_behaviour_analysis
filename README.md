@@ -7,7 +7,13 @@ Project 2: In the second part we will model the data using KMeans Clustering aft
 
 # The Bussiness data Analysis
 ## Background
-some text here
+his project involves the analysis of a business data. The retail business operates both online and offline, sells a range of bikes. we want to gain insights into the company's performance and identify areas for improvement. majorely in their customer targetting. The project was divided into several phases.
+
+The first phase involved data cleaning and preprocessing, as well as exploratory data analysis (EDA). Data cleaning involved identifying missing values, duplicates, and inconsistencies in the data and correcting them to ensure that the data was accurate and reliable. EDA involved visualizing and summarizing the data to identify patterns and relationships between variables. The EDA phase focused on identifying trends in sales and customer behavior, as well as identifying any correlations between customer demographics and purchasing habits.
+
+The second phase involved segmentation modeling with KMeans clustering. Segmentation modeling involved grouping customers into segments based on their similarities in terms of demographics, purchasing habits, and other factors. KMeans clustering was used to group customers into clusters based on their purchasing behavior and other factors.
+
+The third and final phase involved deployment and report with visualization. The findings from the segmentation modeling phase were deployed in the form of an interactive dashboard and report with visualizations. The dashboard provided the company's management team with real-time insights into its performance, including sales trends, customer behavior, and other key performance indicators. The report with visualizations provided a detailed analysis of the data and recommendations for improvement based on the findings.
 
 ## Objectives
 - We will prepare a detailed approach for completing the analysis in the notebook including every activities – i.e. understanding the data distributions, feature engineering, data transformations, modelling, results interpretation and reporting. This detailed plan can be presented to the client too if they wish to see behind the scene. 
